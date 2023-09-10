@@ -1,2 +1,2 @@
 # Firewall.py
-Extending functional of firewall
+Just like an usual firewall, but in python
